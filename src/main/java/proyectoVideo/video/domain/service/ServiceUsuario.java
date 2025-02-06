@@ -26,7 +26,7 @@ public class ServiceUsuario {
     public ResponseEntity crear(DtoUsuario dtoUsuario, UriComponentsBuilder uriComponentsBuilder) {
          var usuario= repositoryUsuario.findByUser(dtoUsuario.usuario());
          if(usuario!=null){
-             return ResponseEntity.ok("usuario ya existe crea uno nuevo");
+             return ResponseEntity.unprocessableEntity().build();
          }else {
             var newUsuario= repositoryUsuario.save(new Usuario(dtoUsuario));
              URI url= uriComponentsBuilder.path("/usuario/unidad/{id}").buildAndExpand(newUsuario.getId_usuario()).toUri();
