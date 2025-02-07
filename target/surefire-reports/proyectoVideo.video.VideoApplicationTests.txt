@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: proyectoVideo.video.VideoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.04 s -- in proyectoVideo.video.VideoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.82 s -- in proyectoVideo.video.VideoApplicationTests
