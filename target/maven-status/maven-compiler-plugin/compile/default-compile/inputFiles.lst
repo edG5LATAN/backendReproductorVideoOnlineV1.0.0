@@ -1,0 +1,17 @@
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\controller\CategoriaController.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\controller\UsuarioController.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\controller\VideoController.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\dto\categoria\DtoCategoria.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\dto\usuario\DtoUsuario.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\dto\video\DtoVideo.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\model\Categoria.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\model\Usuario.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\model\Video.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\repository\RepositoryCategoria.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\repository\RepositoryUsuario.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\repository\RepositoryVideo.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\service\ServiceCategoria.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\service\ServiceUsuario.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\domain\service\ServiceVideo.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\infra\security\CorsWebConfiguration.java
+C:\Users\Cast\Desktop\video\src\main\java\proyectoVideo\video\VideoApplication.java

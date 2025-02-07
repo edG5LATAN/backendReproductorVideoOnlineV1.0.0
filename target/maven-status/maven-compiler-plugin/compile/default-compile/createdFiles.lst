@@ -1,0 +1,17 @@
+proyectoVideo\video\domain\dto\categoria\DtoCategoria.class
+proyectoVideo\video\domain\repository\RepositoryVideo.class
+proyectoVideo\video\controller\VideoController.class
+proyectoVideo\video\VideoApplication.class
+proyectoVideo\video\domain\model\Usuario.class
+proyectoVideo\video\infra\security\CorsWebConfiguration.class
+proyectoVideo\video\domain\service\ServiceCategoria.class
+proyectoVideo\video\domain\model\Video.class
+proyectoVideo\video\controller\UsuarioController.class
+proyectoVideo\video\domain\service\ServiceVideo.class
+proyectoVideo\video\domain\dto\video\DtoVideo.class
+proyectoVideo\video\domain\repository\RepositoryCategoria.class
+proyectoVideo\video\domain\repository\RepositoryUsuario.class
+proyectoVideo\video\controller\CategoriaController.class
+proyectoVideo\video\domain\dto\usuario\DtoUsuario.class
+proyectoVideo\video\domain\model\Categoria.class
+proyectoVideo\video\domain\service\ServiceUsuario.class
